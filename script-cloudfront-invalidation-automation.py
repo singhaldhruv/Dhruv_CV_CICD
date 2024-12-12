@@ -39,7 +39,7 @@ if __name__ == "__main__":
     # Example usage
 
     # Replace with your CloudFront distribution ID
-    DISTRIBUTION_ID = "E25ZYMOMSLSBM8"
+    DISTRIBUTION_ID = "E2AO23OOLGI43X"
 
     # Replace with the paths you want to invalidate
     PATHS_TO_INVALIDATE = [
